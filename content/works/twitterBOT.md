@@ -1,6 +1,6 @@
 ---
 title: 怪しい政治家BOT
-image: /img/twitterBOT.png
+image: /img/twitterBOT.jpg
 github: https://github.com/inaridiy/Requiem
 tags:
   - Twitter

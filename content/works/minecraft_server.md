@@ -1,6 +1,6 @@
 ---
 title: 怪しい政治家BOT
-image: /img/minecraft.png
+image: /img/minecraft.jpg
 tags:
   - Minecraft
   - Linux

@@ -1,6 +1,6 @@
 ---
 title: FastFox
-image: /img/fastfox.png
+image: /img/fastfox.jpg
 github: https://github.com/inaridiy/sns_test2
 tags:
   - SNS

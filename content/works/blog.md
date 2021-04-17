@@ -1,6 +1,6 @@
 ---
 title: 稲荷の開発記録
-image: /img/blog.png
+image: /img/blog.jpg
 github: https://github.com/inaridiy/blog
 tags:
   - Blog

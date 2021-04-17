@@ -1,6 +1,6 @@
 ---
 title: 怪しい政治家BOT
-image: /img/requiem.png
+image: /img/requiem.jpg
 tags:
   - Electron
   - chromium
